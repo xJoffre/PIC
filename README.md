@@ -1,6 +1,6 @@
 # PIC: detección de defectos en llantas
 
-Clasificador de imágenes que separa llantas buenas de defectuosas con transfer learning sobre VGG16. La versión final llega a 94,9 % de exactitud en el conjunto de prueba, y Grad-CAM muestra qué zona de la llanta decide cada predicción.
+Tesis de grado de Ingeniería en Ciencias de la Computación (itinerario de Sistemas Inteligentes, Universidad Nacional de Loja, 2026). Clasificador de imágenes que separa llantas buenas de defectuosas con transfer learning sobre VGG16. La versión final llega a 94,9 % de exactitud en el conjunto de prueba, y Grad-CAM muestra qué zona de la llanta decide cada predicción.
 
 ## Versiones
 
